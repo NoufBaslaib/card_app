@@ -61,7 +61,7 @@ class MyWidget extends StatelessWidget {
                     color: Color.fromARGB(255, 167, 189, 208),
                   ),
                   title: Text(
-                    'noon6332@gmail.com',
+                    'baslaibnouf@gmail.com',
                     style: TextStyle(fontSize: 20.0),
                   ),
                 ))
